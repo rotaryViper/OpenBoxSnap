@@ -1,7 +1,6 @@
 # Openbox Snap
-This has probably been done a million times, but this version is a simple.
-
-Copy and paste the rc.xml file into ~/.config/openbox/
+This has probably been done a million times, but this version is a simple.\
+Copy and paste the rc.xml file into ~/.config/openbox/\
 That is all you need to do. No reinstallation of openbox required.
 
 The added commands are:
