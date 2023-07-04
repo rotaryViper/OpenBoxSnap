@@ -18,6 +18,6 @@ The added commands are:
 | Windows + Alt + ↓ 	|              	| Unmaximize        	|
 | Windows + t       	|              	| Alacritty (Terminal)|
 | Windows + b       	|              	| Chromium (Browser)  |
-| Windows + f       	|              	| PCManFM             |
+| Windows + f       	|              	| PCManFM (File Manager)|
 | Windows + e       	|              	| VSCode  (IDE)       |
-| Windows + Alt+ e   	|              	| FeatherPad (Text Ed)|
+| Windows + Alt+ e   	|              	| FeatherPad (Text Editor)|
