@@ -4,7 +4,6 @@ Copy and paste the rc.xml file into ~/.config/openbox/\
 That is all you need to do. No reinstallation of openbox required.\
 
 The added commands are:\
--------------------------------------------------------------\
 | First Input       	| Second Input 	| Result            	|
 |-------------------	|--------------	|-------------------	|
 | Windows + ↑       	| Windows + ↑  	| Snap Top Half     	|
@@ -17,4 +16,3 @@ The added commands are:\
 | Windows + →       	|              	| Snap Right Half   	|
 | Windows + Alt + ↑ 	|              	| Maximize          	|
 | Windows + Alt + ↓ 	|              	| Unmaximize        	|
--------------------------------------------------------------\
