@@ -16,3 +16,8 @@ The added commands are:
 | Windows + →       	|              	| Snap Right Half   	|
 | Windows + Alt + ↑ 	|              	| Maximize          	|
 | Windows + Alt + ↓ 	|              	| Unmaximize        	|
+| Windows + t       	|              	| Alacritty (Terminal)|
+| Windows + b       	|              	| Chromium (Browser)  |
+| Windows + f       	|              	| PCManFM             |
+| Windows + e       	|              	| VSCode  (IDE)       |
+| Windows + Alt+ e   	|              	| FeatherPad (Text Ed)|
