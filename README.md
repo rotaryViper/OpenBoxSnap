@@ -20,4 +20,5 @@ The added commands are:
 | Windows + b       	|              	| Chromium (Browser)  |
 | Windows + f       	|              	| PCManFM (File Manager)|
 | Windows + e       	|              	| VSCode  (IDE)       |
-| Windows + Alt+ e   	|              	| FeatherPad (Text Editor)|
+| Windows + Alt + e  	|              	| FeatherPad (Text Editor)|
+| Windows + m       	|              	| Mathematica         |
